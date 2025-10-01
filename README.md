@@ -13,7 +13,11 @@ Cada carpeta corresponde a su clase correspondiente.
 
 - **Clase 3:** Inspección y visualización de datos con **Matplotlib** (líneas, dispersión, polinomios, mapas de colores).  
 
-- **Clase 4:** **Aprendizaje supervisado**: regresión lineal, regresión logística, clasificación y métricas de evaluación.  
+- **Clase 4:** **Aprendizaje supervisado**: regresión lineal, regresión logística, clasificación y métricas de evaluación.
+
+- **Clase 5:** Comparación de clasificadores (**KNN vs Árbol de Decisión**) utilizando el dataset **Breast Cancer** de *scikit-learn*.  
+  Incluye evaluación de precisión, visualización del árbol y análisis de las características más importantes.  
+
 
 ## Tecnologías
 
