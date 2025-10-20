@@ -6,25 +6,25 @@ Este repositorio contiene el flujo reproducible para **convertir**, **limpiar** 
 
 ## Estructura
 
+.
 ├── 1. Transformacion_dataset/
-│ └── Transformacion_Dataset.ipynb
-│ # Convierte el archivo SAS ed2022_sas.sas7bdat a CSV,
-│ # y genera una versión limpia mínima.
-│
+│   └── Transformacion_Dataset.ipynb        # Transforma ed2022_sas.sas7bdat → CSV (limpio y mínimo)
 ├── 2. Documentacion_dataset/
-│ ├── Documentacion_Dataset.ipynb
-│ └── dataset_docs/
-│ ├── DATASET.md
-│ ├── DATADICT.md
-│ ├── DATADICT_full.csv
-│ ├── DATADICT_part1.md … DATADICT_partN.md
-│ ├── PROVENANCE.md
-│ ├── SHA256SUMS.txt
-│ └── DATADICT_bundle.zip 
-│
+│   ├── Documentacion_Dataset.ipynb
+│   └── dataset_docs/
+│       ├── DATASET.md
+│       ├── DATADICT.md
+│       ├── DATADICT_full.csv
+│       ├── DATADICT_part1.md
+│       ├── … 
+│       ├── DATADICT_partN.md
+│       ├── PROVENANCE.md
+│       ├── SHA256SUMS.txt
+│       └── DATADICT_bundle.zip
 └── data/
-├── ed2022_clean.csv
-└── ed2022_clean_min.csv
+    ├── ed2022_clean.csv
+    └── ed2022_clean_min.csv
+
 
 ## Qué se realizó
 
@@ -45,13 +45,3 @@ Este repositorio contiene el flujo reproducible para **convertir**, **limpiar** 
    - **DATADICT_part*.md**: el diccionario segmentado (para facilitar carga/visualización).
    - **DATADICT_bundle.zip**: paquete comprimido para revisión externa.
 
-1. Crear entorno (opcional):
-   ```bash
-   pip install -r Examen_parcial_proyecto/requirements.txt
-
-Ejecutar notebooks en este orden:
-
-1. Transformacion_dataset/Transformacion_Dataset.ipynb
-2. Documentacion_dataset/Documentacion_Dataset.ipynb
-
-Ver salidas en data/ y 2. Documentacion_dataset/dataset_docs/.
