@@ -4,8 +4,8 @@ Este repositorio contiene el flujo reproducible para **convertir**, **limpiar** 
 
 ---
 
-## Estructura
-
+<h2>Estructura</h2>
+<pre>
 .
 ├── 1. Transformacion_dataset/
 │   └── Transformacion_Dataset.ipynb        # Transforma ed2022_sas.sas7bdat → CSV (limpio y mínimo)
@@ -24,7 +24,7 @@ Este repositorio contiene el flujo reproducible para **convertir**, **limpiar** 
 └── data/
     ├── ed2022_clean.csv
     └── ed2022_clean_min.csv
-
+</pre>
 
 
 ## Qué se realizó
