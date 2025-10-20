@@ -26,6 +26,7 @@ Este repositorio contiene el flujo reproducible para **convertir**, **limpiar** 
     └── ed2022_clean_min.csv
 
 
+
 ## Qué se realizó
 
 1. **Transformación (SAS → CSV)**
