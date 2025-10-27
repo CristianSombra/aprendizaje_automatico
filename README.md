@@ -18,6 +18,14 @@ Cada carpeta corresponde a su clase correspondiente.
 - **Clase 5:** Comparación de clasificadores (**KNN vs Árbol de Decisión**) utilizando el dataset **Breast Cancer** de *scikit-learn*.  
   Incluye evaluación de precisión, visualización del árbol y análisis de las características más importantes.  
 
+- **Clase 6:** **SVM** (hiperplano, vectores de soporte, margen, *kernel trick* lineal/polinómico/RBF/sigmoide) y **SGD** para entrenamiento eficiente en grandes datasets.  
+
+- **Clase 7 (Repaso):** Proyecto end-to-end: pregunta → datos → visualización → modelo → comunicación. Repaso de objetos visuales en **Power BI** y buenas prácticas de narrativa.  
+
+- **Clase 8:** **Clustering**: K-means y MiniBatchKMeans (centroides, inercia, k-means++), Affinity Propagation; recomendaciones de escalado y evaluación (método del codo).  
+
+- **Clase 9:** **PCA** para reducción de dimensionalidad: varianza explicada, pipeline (centrado → covarianza → autovectores/autovalores → proyección) e implementación con *scikit-learn*.  
+
 
 ## Tecnologías
 
