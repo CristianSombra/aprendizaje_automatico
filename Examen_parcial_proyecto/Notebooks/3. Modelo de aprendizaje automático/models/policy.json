@@ -1,0 +1,5 @@
+{
+  "threshold": 0.59,
+  "gray_delta": 0.05,
+  "positive_class": 2
+}
