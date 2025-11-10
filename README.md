@@ -26,7 +26,7 @@ Cada carpeta corresponde a su clase correspondiente.
 
 - **Clase 9:** **PCA** para reducción de dimensionalidad: varianza explicada, pipeline (centrado → covarianza → autovectores/autovalores → proyección) e implementación con *scikit-learn*.  
 
-- **PROYECTO FINAL:** **PCA** Tranfosrmación y documentación del dataset, creación de modelo de aprendizaje automático para sistema TRIAGE DE GUARDIA CENTRAL DE EMERGENCIAS. 
+- **PROYECTO FINAL:** Tranfosrmación y documentación del dataset, creación de modelo de aprendizaje automático para sistema TRIAGE DE GUARDIA CENTRAL DE EMERGENCIAS. 
 
 ## Tecnologías
 
